@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello World - Vno
-date: 2016-02-16 15:32:24.000000000 +09:00
+title: iOS10 Notification 
+date: 2017-03-25 20:17:24.000000000 +09:00
 ---
 
 #### What's this
@@ -33,10 +33,10 @@ You could replace the background and avatar image in `assets/images` folder to c
 
 [My blog](http://onevcat.com) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
 
-| Site Name    | URL                                                |
-| ------------ | ---------------------------------------------------|
-| OneV's Den   | [http://onevcat.com](http://onevcat.com)           |
-| July Tang    | [http://blog.julytang.xyz](http://onevcat.com)     |
+| Site Name  | URL                                      |
+| ---------- | ---------------------------------------- |
+| OneV's Den | [http://onevcat.com](http://onevcat.com) |
+| July Tang  | [http://blog.julytang.xyz](http://onevcat.com) |
 
 > If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
 
